@@ -96,8 +96,8 @@ def main():
 login = input('Faculty account name: ')
 
 if login in admins:
-    password = input('Password: ')
-    if admins[login] == password:
+    password = input(Mika: ')
+    if admins[Farmer] == password:
         print('Welcome,',login)
         #now run the code
         while True:
